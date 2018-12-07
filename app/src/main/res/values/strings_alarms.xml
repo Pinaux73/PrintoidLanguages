@@ -36,21 +36,21 @@
 
     <string name="alarm_alert_value_title">Valore errato per questo avviso</string>
     <string name="alarm_alert_type_msg">Modo errato per questo avviso! Perfavore contatta il creatore di Printoid</string>
-    <string name="alarm_alert_value_progress_msg">Please enable the background mode to be notified when a print is ended instead of using a custom alert!</string>
-    <string name="alarm_alert_value_empty_msg">You should provide a value for this alert!</string>
-    <string name="alarm_alert_value_float_msg">The value for this alert should be an floating number or an integer!</string>
+    <string name="alarm_alert_value_progress_msg">Si prega di abilitare la modalità in background per essere avvisati quando una stampa è terminata invece di usare un avviso personalizzato!</string>
+    <string name="alarm_alert_value_empty_msg">Dovresti fornire un valore per questo avviso!</string>
+    <string name="alarm_alert_value_float_msg">Il valore per questo avviso deve essere un numero mobile o un numero intero!</string>
 
-    <string name="alarm_help_title">Alerts manager</string>
-    <string name="alarm_help_msg">You can define custom alerts in Printoid.\n\n
-        Alerts will result on an Android notification, with sound and vibration depending on your system settings.\n\n
-        Alerts will be fired only if Printoid is opened on your phone and in foreground.\n\n
-        Please note that this feature is \"work in progress\" and will be enhanced a lot! :)</string>
+    <string name="alarm_help_title">Manager Avvisi</string>
+    <string name="alarm_help_msg">Puoi configurare degli avvisi personalizzati in Printoid.\n\n
+        Gli avvisi verranno visualizzati come una notifica Android, con suoni e vibrazioni a seconda delle impostazioni del sistema.\n\n
+        Gli avvisi saranno attivati solo se Printoid viene aperto sul telefono e lasciato in primo piano.\n\n
+        Questa funzione risulta  \"work in progress\" e sarà sviluppata molto in futuro :)</string>
 
-    <string name="alarm_notification_title">Alert: %s</string>
-    <string name="alarm_notification_progress">Current progression: %.1f%%</string>
-    <string name="alarm_notification_temperature_hot_end">Temperature of ext. %1$d: %2$.1f°</string>
-    <string name="alarm_notification_temperature_hot_bed">Heated bed temperature: %.1f°</string>
-    <string name="alarm_notification_gcode_command">GCODE command executed: %s</string>
-    <string name="alarm_notification_z_height">Z height reached: %.2f</string>
+    <string name="alarm_notification_title">Avviso: %s</string>
+    <string name="alarm_notification_progress">Progresso: %.1f%%</string>
+    <string name="alarm_notification_temperature_hot_end">Temperatura estrusore %1$d: %2$.1f°</string>
+    <string name="alarm_notification_temperature_hot_bed">Temperatura letto: %.1f°</string>
+    <string name="alarm_notification_gcode_command">Comando GCODE eseguito: %s</string>
+    <string name="alarm_notification_z_height">Altezza Z raggiunta: %.2f</string>
 
 </resources>
