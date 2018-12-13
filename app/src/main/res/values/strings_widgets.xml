@@ -11,13 +11,13 @@
     <string translatable="false" name="widget_starter_name_reduced">Starter</string>
     <string translatable="false" name="widget_profiles_name_reduced">Profiles</string>
 
-    <string name="widget_no_snapshot_connection">Can\'t retrieve snapshot\n(%s)</string>
-    <string name="widget_no_snapshot_connection_unknown_profile">Can\'t retrieve snapshot</string>
-    <string name="widget_unknown_profile">Unknown profile</string>
+    <string name="widget_no_snapshot_connection">Non posso recuperare lo snaphot</string>
+    <string name="widget_no_snapshot_connection_unknown_profile">Non posso recuperare lo snaphot</string>
+    <string name="widget_unknown_profile">Profilo sconosciuto</string>
 
-    <string name="widget_starter_error_no_profiles">Can\'t select profile: no profile available</string>
-    <string name="widget_starter_error_profile_not_found">Can\'t select profile: not found or no more available</string>
-    <string name="widget_starter_error_null_id">Can\'t select profile: identifier not valid</string>
+    <string name="widget_starter_error_no_profiles">Non posso selezionare il profilo: profilo non disponibile</string>
+    <string name="widget_starter_error_profile_not_found">Non posso selezionare il profilo: non trovato o non più raggiungibile</string>
+    <string name="widget_starter_error_null_id">Non posso selezionare il profilo: id non valido</string>
 
     <string name="widget_empty_profiles" translatable="false">No OctoPrint profiles</string>
 
